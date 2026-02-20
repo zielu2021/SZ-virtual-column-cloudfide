@@ -1,0 +1,1 @@
+# SZ-virtual-column-cloudfide
